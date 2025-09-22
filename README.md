@@ -1,5 +1,6 @@
 # hello-world
 this repository is for practicing the GitHub Flow
 
-## this is a test from learning github branches
-second branch was made
+## This is a test from learning github branches
+###second branch was made
+###third branch was made
